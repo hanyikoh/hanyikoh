@@ -13,6 +13,3 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hanyikoh&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hanyikoh&theme=tokyonight" />
 </p>
-
-<h4 align="center">Testimonials</h4>
-<h1 align="center">❝</h1>
