@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://www.instagram.com/henrykoh_00/">
-    <img src="https://img.shields.io/badge/Instagram-Follow%20Me-blue" />
+    <img src="https://img.shields.io/badge/Instagram-Follow%20Me-blue?style=plastic&logo=appveyor" />
   </a>
   <a href="https://www.linkedin.com/in/hanyikoh/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-lightgrey" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-lightgrey?style=plastic&logo=appveyor" />
   </a>
 </p>
 
